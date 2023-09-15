@@ -8,4 +8,4 @@ The tkinter gui is used to display the source file corpus and target file corpus
 It lets you upload a text file from the system and by selecting source and target languages, you can easily translate with few clicks.
 You can also download the translated text.
 
-I also added some error handling mechanisms to display helpful messages if the procedure of translation is not performed properly such as if the source,target languages are not selected,reuploading the file, uploading the empty file, trying to download the target file before translating etc..
+I also added some error handling mechanisms to display helpful messages if the procedure of translation is not performed properly such as if the source,target languages are not selected,reuploading the file, uploading the empty file, trying to download the target file before translating etc...
